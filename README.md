@@ -10,7 +10,7 @@ I wanted to take this further and build it into a more full-fledged command line
 
 First, compile the program.
 ```
-$ gcc f2c.c -o temps 
+$ gcc temps.c -o temps 
 ```
 
 Convert a temp in Fahrenheit to a temp in Celsius
